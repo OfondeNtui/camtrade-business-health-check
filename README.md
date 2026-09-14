@@ -93,6 +93,8 @@ Relationships were established between the Sales, Customers, and Products tables
 - Data-driven recommendations
 - ## Interactive Dashboard
 
+## Interactive Dashboard
+
 View the interactive Tableau dashboard:
 
-[View the CAMTRADE Business Health Check Dashboard]([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE](https://public.tableau.com/app/profile/agbor.ofonde.ntui/viz/SampleAnalysis_17878454591860/Dashboard1))
+[View the CAMTRADE Business Health Check Dashboard](https://public.tableau.com/app/profile/agbor.ofonde.ntui/viz/SampleAnalysis_17878454591860/Dashboard1)
