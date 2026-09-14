@@ -2,6 +2,7 @@
 ## CAMTRADE Business Health Check
 
 ### Business Intelligence & Sales Performance Analysis
+![CAMTRADE Business Health Check Dashboard](camtrade-business-health-check-dashboard.png)
 
 This project analyzes the financial and commercial performance of CAMTRADE across products, locations, and customer segments.
 
